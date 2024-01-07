@@ -1,5 +1,3 @@
-Claro, um bom README para o GitHub pode ajudar a explicar o propósito do seu projeto, como configurá-lo e usá-lo. Aqui está um exemplo genérico para um projeto que usa o GPT-3 da OpenAI:
-
 ---
 
 # Chatbot com GPT-3 da OpenAI

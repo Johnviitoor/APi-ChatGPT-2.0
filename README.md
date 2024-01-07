@@ -21,7 +21,7 @@ Este é um projeto de chatbot utilizando o modelo de linguagem GPT-3 da OpenAI p
 2. Abra o arquivo `index.html` em um navegador web.
 3. Insira suas perguntas no campo de texto e pressione Enter ou clique no botão "Enviar".
 4. O chatbot irá gerar respostas com base nas perguntas fornecidas.
-5. Você pode tambem utilizar para teste a extensão "Live Server" no Visual Code Studio
+5. Você pode utilizar para o teste a extensão "Live Server" no Visual Code Studio.
 
 ## Notas
 
@@ -29,5 +29,3 @@ Este é um projeto de chatbot utilizando o modelo de linguagem GPT-3 da OpenAI p
 - Certifique-se de seguir os termos de uso da API da OpenAI ao utilizar este projeto em produção.
 
 ---
-
-Certifique-se de substituir `link_para_sua_demo` com o link real para uma demonstração ao vivo do seu projeto, se houver. E também adicione mais informações específicas sobre como o código está estruturado, dependências (se houver), e qualquer outra coisa que possa ser útil para alguém que queira usar seu projeto.
